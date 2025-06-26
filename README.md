@@ -36,5 +36,9 @@ Allows the user to switch between light and dark themes in the app.
 
 2. Update user if used 80% of their budget of a certain category
 
+**Things we Updated**
+Session Management	Implemented SessionManager to persist and check login state
+Login Redirection	Added redirection from MainActivity to LoginActivity if not logged in
+
 
 
